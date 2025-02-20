@@ -1,0 +1,22 @@
+PODS:
+  - DGCharts (5.1.0):
+    - DGCharts/Core (= 5.1.0)
+  - DGCharts/Core (5.1.0)
+  - OTXCFramework (2.28.3)
+
+DEPENDENCIES:
+  - DGCharts
+  - OTXCFramework (= 2.28.3)
+
+SPEC REPOS:
+  trunk:
+    - DGCharts
+    - OTXCFramework
+
+SPEC CHECKSUMS:
+  DGCharts: 1c6daf585b6cfc78807af44ea690d357c410627f
+  OTXCFramework: d057c521a96824527183db02482181971396d362
+
+PODFILE CHECKSUM: 62a52756c5dd14cb7d453f168953cbf0b97ce443
+
+COCOAPODS: 1.15.2
